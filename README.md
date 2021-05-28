@@ -9,4 +9,4 @@ https://github.com/gowthamrajk/WebSeries-Application/wiki
 # Entity Relationship Mapping
 
 
-![image](https://user-images.githubusercontent.com/43011442/119871675-516f6880-bf40-11eb-88e4-4a8ec3e8c73b.png)
+![image](https://user-images.githubusercontent.com/43011442/119963852-31828800-bfc6-11eb-95c6-25e5c84bf8fd.png)
